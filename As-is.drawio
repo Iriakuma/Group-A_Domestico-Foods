@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T23:46:40.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VRl7f_E-t0n8MW0Ff1fQ" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T00:30:26.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pdmavCrQQACUDY55unw8" version="24.2.2" type="github">
   <diagram name="Page-1" id="2wqCdjOxgctau4Dle53U">
-    <mxGraphModel dx="2790" dy="2335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,66 +80,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-29" value="Start" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="90" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-31" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1053.1100000000001" y="3250" width="75" height="50" as="geometry" />
+          <mxGeometry x="1064.36" y="85" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-38" target="A3opuZwIjD253C1pCB1n-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-38" value="Employee clocks out for lunch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1017.5" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1041.86" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-40" target="A3opuZwIjD253C1pCB1n-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-40" value="Employee log into&lt;div&gt;Domestico app&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1017.5" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="A3opuZwIjD253C1pCB1n-40" value="Employee logs into&lt;div&gt;Domestico lunch app&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1041.8600000000001" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-42" target="A3opuZwIjD253C1pCB1n-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-42" value="Employee sees meal options and prices" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1017.5" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1041.8600000000001" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-44" target="A3opuZwIjD253C1pCB1n-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-44" value="Employee chooses meal preference&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1017.5" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="1043.43" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-46" target="A3opuZwIjD253C1pCB1n-48">
+        <mxCell id="A3opuZwIjD253C1pCB1n-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-46" target="A3opuZwIjD253C1pCB1n-198">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-46" value="Employee proceeds to make order" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1017.51" y="770" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1077.5100000000002" y="990" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-48" value="Employee is redirected to payment portal" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1017.51" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="1043.43" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-54" target="A3opuZwIjD253C1pCB1n-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-54" value="Employee enters card details&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1003.12" y="990" width="148.75" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-59" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-62">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1077.5100000000002" y="1230" as="sourcePoint" />
-            <mxPoint x="1077.5" y="1360" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="A3opuZwIjD253C1pCB1n-54" value="Employee enters card details&amp;nbsp; on same page" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1017.8" y="1180" width="148.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-62" target="A3opuZwIjD253C1pCB1n-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1190" y="1240" />
-              <mxPoint x="1190" y="1020" />
+              <mxPoint x="1190" y="1460" />
+              <mxPoint x="1190" y="1210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -154,12 +137,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-62" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Is card details correct?&lt;/span&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1016.25" y="1190" width="122.49" height="100" as="geometry" />
+          <mxGeometry x="1029.3799999999999" y="1390" width="122.49" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-73" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-70" target="A3opuZwIjD253C1pCB1n-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A3opuZwIjD253C1pCB1n-183">
+        <mxCell id="A3opuZwIjD253C1pCB1n-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="A3opuZwIjD253C1pCB1n-183">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1145.6299999999997" y="290.0000000000001" as="sourcePoint" />
             <mxPoint x="1208" y="2540" as="targetPoint" />
@@ -195,66 +178,61 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-70" value="Is employees meal choice available?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1009.36" y="480" width="136.27" height="120" as="geometry" />
+          <mxGeometry x="1033.73" y="510" width="136.27" height="120" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-78" target="A3opuZwIjD253C1pCB1n-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-78" value="System validates card" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1017.49" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="1031.5600000000002" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-81" target="A3opuZwIjD253C1pCB1n-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-81" value="System processes payment" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1029.36" y="1360" width="122.51" height="70" as="geometry" />
+          <mxGeometry x="1029.9799999999998" y="1550" width="122.51" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-82" target="A3opuZwIjD253C1pCB1n-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-82" value="System confirms employee&#39;s order" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1030.615" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="1032.175" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-86" target="A3opuZwIjD253C1pCB1n-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-86" value="Employee&#39;s meal order is processed" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1025.9199999999998" y="1580" width="129.39" height="70" as="geometry" />
+          <mxGeometry x="1027.4799999999998" y="1800" width="129.39" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-87" target="A3opuZwIjD253C1pCB1n-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-87" value="Employee&#39;s order gets ready" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1030.6149999999998" y="1700" width="120" height="60" as="geometry" />
+          <mxGeometry x="1032.1749999999997" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-89" target="A3opuZwIjD253C1pCB1n-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-89" value="Employee receives notification to pick order" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
-          <mxGeometry x="1031.2299999999998" y="1820" width="119.39" height="70" as="geometry" />
+          <mxGeometry x="1032.1699999999998" y="2030" width="119.39" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-91" target="A3opuZwIjD253C1pCB1n-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-91" value="Employee sees pick up location for order&lt;div&gt;Canteen 1 or 2&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1031.2249999999997" y="1950" width="120" height="60" as="geometry" />
+          <mxGeometry x="1031.8649999999998" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-93" target="A3opuZwIjD253C1pCB1n-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-93" value="Employee proceeds to pick order&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1031.8749999999998" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1031.2349999999997" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-95" target="A3opuZwIjD253C1pCB1n-183">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-95" value="Employee picks lunch order" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1031.225" y="2150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="A3opuZwIjD253C1pCB1n-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1076.3333333333333" y="3190" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="1030.615" y="2350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-145" target="A3opuZwIjD253C1pCB1n-19">
           <mxGeometry relative="1" as="geometry" />
@@ -277,23 +255,23 @@
         <mxCell id="A3opuZwIjD253C1pCB1n-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-183" target="A3opuZwIjD253C1pCB1n-185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A3opuZwIjD253C1pCB1n-183" value="Employee logs out of LunchLink App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1029.52" y="2260" width="124.7" height="80" as="geometry" />
+        <mxCell id="A3opuZwIjD253C1pCB1n-183" value="Employee logs out of DOmestico Lunch App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1028.8799999999999" y="2460" width="124.7" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-185" target="A3opuZwIjD253C1pCB1n-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-185" value="Employee has lunch" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1031.22" y="2380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1031.8700000000001" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-187" target="A3opuZwIjD253C1pCB1n-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-187" value="End of lunch time" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1031.87" y="2490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1031.2299999999998" y="2690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-191" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1054.37" y="2590" width="75" height="50" as="geometry" />
+          <mxGeometry x="1047.95" y="2790" width="85.32" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-193" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Future&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1025.92" y="20" width="100" height="40" as="geometry" />
@@ -303,6 +281,18 @@
         </mxCell>
         <mxCell id="A3opuZwIjD253C1pCB1n-195" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;FLOW DIAGRAMS FOR DOMESTICO FOODS LUNCH APP&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="630" y="-80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A3opuZwIjD253C1pCB1n-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-198" target="A3opuZwIjD253C1pCB1n-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3opuZwIjD253C1pCB1n-198" value="Order is placed in the shopping cart" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1043.43" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3opuZwIjD253C1pCB1n-200" value="Employee proceeds to cart to checkout&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1036.87" y="1080" width="133.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3opuZwIjD253C1pCB1n-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A3opuZwIjD253C1pCB1n-62" target="A3opuZwIjD253C1pCB1n-81">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
